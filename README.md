@@ -1,5 +1,4 @@
 ![welcome-banner](https://github.com/Ladyk3000/Ladyk3000/blob/main/header.png)
-![](https://komarev.com/ghpvc/?username=Ladyk3000)
 
 ### Student, from Russia 🇷🇺
 
